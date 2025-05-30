@@ -30,7 +30,7 @@ This plugin allows you to replace the default Jellyfin logo with your own custom
    - **Name:** `CustomLogoPlugin`
    - **URL:**  
      ```
-     https://raw.githubusercontent.com/jam1668/CustomLogoPlugin/main/manifest.json
+     https://raw.githubusercontent.com/jam1668/JellyfinCustomLogoPlugin/main/manifest.json
      ```
 4. Click **Save**.
 
